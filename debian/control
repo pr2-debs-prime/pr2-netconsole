@@ -7,7 +7,7 @@ Standards-Version: 3.7.2
 
 Package: pr2-netconsole
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, python, pr2-sendhwlog, rsyslog
+Depends: ${shlibs:Depends}, ${misc:Depends}, python, rsyslog
 Description: Logs from netconsole and puts logs in /hwlog
 Provides: ${diverted-files}
 Conflicts: ${diverted-files}
