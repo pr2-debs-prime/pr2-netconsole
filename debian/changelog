@@ -1,4 +1,4 @@
-pr2-netconsole (0.5.14-precise) stable; urgency=low
+pr2-netconsole (0.5.14-xenial) stable; urgency=low
 
   * Incrementing to SVN: r725
    - r725: console-log-zip is now executable
